@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ef05b21b4969eb74594050804b9e112d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: _Layiji MaHaNiYom V 1.2
+  fontNames:
+  - _Layiji MaHaNiYom V 1.2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
